@@ -1,45 +1,56 @@
 {
   "tags": [
     {
-      "title": "tag 1"
+      "id": 1,
+      "title": "tech"
     },
     {
-      "title": "tag 2"
+      "id": 2,
+      "title": "study"
     },
     {
-      "title": "tag 3"
+      "id": 3,
+      "title": "work out"
+    },
+    {
+      "id": 4,
+      "title": "house"
+    },
+    {
+      "id": 5,
+      "title": "work"
     }
   ],
   "todos": [
     {
       "id": 1,
-      "title": "todo title 1",
+      "title": "Create a new project on Github",
       "completed": false,
-      "tag": "tag 1"
+      "tag": "tech"
     },
     {
       "id": 2,
-      "title": "todo title 2",
+      "title": "Study to the test",
       "completed": false,
-      "tag": "tag 2"
+      "tag": "study"
     },
     {
       "id": 3,
-      "title": "todo title 3",
+      "title": "Update this project dependencies",
       "completed": false,
-      "tag": "tag 1"
+      "tag": "tech"
     },
     {
       "id": 4,
-      "title": "todo title 4",
+      "title": "Replace css to styed-compents",
       "completed": false,
-      "tag": "tag 2"
+      "tag": "work"
     },
     {
       "id": 5,
-      "title": "todo title 5",
-      "completed": false,
-      "tag": "tag 3"
+      "title": "Bake a chocolate cake",
+      "completed": true,
+      "tag": "house"
     }
   ]
 }
