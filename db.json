@@ -1,0 +1,45 @@
+{
+  "tags": [
+    {
+      "title": "tag 1"
+    },
+    {
+      "title": "tag 2"
+    },
+    {
+      "title": "tag 3"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "todo title 1",
+      "completed": false,
+      "tag": "tag 1"
+    },
+    {
+      "id": 2,
+      "title": "todo title 2",
+      "completed": false,
+      "tag": "tag 2"
+    },
+    {
+      "id": 3,
+      "title": "todo title 3",
+      "completed": false,
+      "tag": "tag 1"
+    },
+    {
+      "id": 4,
+      "title": "todo title 4",
+      "completed": false,
+      "tag": "tag 2"
+    },
+    {
+      "id": 5,
+      "title": "todo title 5",
+      "completed": false,
+      "tag": "tag 3"
+    }
+  ]
+}
